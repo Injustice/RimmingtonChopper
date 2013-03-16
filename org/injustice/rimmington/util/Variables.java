@@ -50,7 +50,7 @@ public class Variables {
 	public static int startExp, startLevel, price, startCount;
 	public static int logsCut, logsChopped;
 	public static long startTime;
-	public static final double version = 2.0;
+	public static final double version = 3.0;
 	public static String timeTNL;
 	public static Timer runTime = new Timer(0);
 	public static String status;
